@@ -1,4 +1,3 @@
 # day7-git-practice
 Git and Pull Request practice for Day 7
-About: Version B.
-Branch: add-about
+About: Version A and Version B changes were reviewed.
